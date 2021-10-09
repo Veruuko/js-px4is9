@@ -7,4 +7,10 @@ appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
 // import './ukol2';
 // import './ukolbmi';
-import './ukol4';
+// import './ukol4';
+// import './cykly';
+// import './for';
+// import './prepiscyklu';
+// import './funkce';
+// import './funkce2';
+import './pole';
